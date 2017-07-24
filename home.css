@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css?family=Baloo+Bhaina|Courgette|Jim+Nightshade|Permanent+Marker|Ranga|Righteous|VT323');
+
+html {
+	
+}
+body {
+	background-color: #FAF75A;
+	font-family: 'Permanent Marker';
+	font-size: 20px;
+	color: #0A0A00;
+	margin: 0 auto;
+	width: 1000px;
+}
+
+header {
+	background-color: #0A0A00;
+	color: white;
+	padding: 20px;
+}		
+
+main {	
+	font-family: 'Permanent Marker';
+	margin-left: 40px;
+	margin-right: 40px;
+}		
+
+a {
+	color: #F032D6;
+}
+
+footer {
+	background-color: #0251FA;
+	color: black;
+	padding:  20px 40px;
+}	
+img{
+	width: 500px;
+	height: 500px;
+	margin-left: 230px;
+}
+/*end of home page----*/
+
+*/bullies page-------------*/
+
+body {
+	color: #2F4F4F;
+}
+
+.container1 {
+	height: 100vh;
+}
+
+.pic {
+	background-color: #7FFFD4;
+	float: left;
+	width: 50%;
+	height: 100vh;
+	border-right: 3px black solid;
+	text-align: center;
+}
+.stop {
+	background-color: #FA8072;
+	float: left;
+	width: 49%;
+	height: 100vh;
+	margin: auto;
+	text-align: center;
+	overflow: scroll;
+}
+
+.pic img {
+	width:50%;
+}
+/* end of bullies page-------------- */
