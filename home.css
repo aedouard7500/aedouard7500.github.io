@@ -33,42 +33,112 @@ footer {
 	color: black;
 	padding:  20px 40px;
 }	
-img{
+.homepic{
 	width: 500px;
 	height: 500px;
 	margin-left: 230px;
 }
 /*end of home page----*/
 
-*/bullies page-------------*/
+/*bullies page-------------*/
 
 body {
 	color: #2F4F4F;
 }
 
-.container1 {
+.container {
 	height: 100vh;
 }
 
-.pic {
+.boy {
 	background-color: #7FFFD4;
 	float: left;
-	width: 50%;
-	height: 100vh;
+	width: 30%;
+	height: 120vh;
 	border-right: 3px black solid;
 	text-align: center;
 }
 .stop {
 	background-color: #FA8072;
 	float: left;
-	width: 49%;
-	height: 100vh;
+	width: 30%;
+	height: 120vh;
 	margin: auto;
 	text-align: center;
-	overflow: scroll;
 }
 
 .pic img {
-	width:50%;
+	width:100%;
+    height: 85%;
 }
+
+.pic {
+    width: 33%;
+    float: left;
+}
+
 /* end of bullies page-------------- */
+
+/*cyber-bullies---------*/
+    
+.definition {
+    width: 26%;
+    float: left;
+    background-color: #DC143C;
+    
+}
+.behavior {
+    width: 26%;
+    float: left;
+    background-color: #5F9EA0;
+}
+.over {
+    width: 26%;
+    float: left;
+    background-color: #D2691E;
+}
+.empty {
+    clear: both;
+}
+
+.boy-cb {
+	background-color: #7FFFD4;
+	width: 50%;
+    margin: auto;
+	height: 100vh;
+	border-right: 3px black solid;
+	text-align: center;
+}
+
+.boy-cb img {
+    width: 100%;
+    margin-left: 0px;
+}
+
+.definition, .behavior, .over {
+    padding: 2%;
+}
+
+.texts {
+    height: 99%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
